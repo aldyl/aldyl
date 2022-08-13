@@ -3,7 +3,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aldyl&label=Profile%20views&color=0e75b6&style=flat" alt="aldyl" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldyl" alt="aldyl" /></a> </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldyl)](https://github.com/aldyl)
 - 🌱 I’m currently learning ...
 
 <!--
