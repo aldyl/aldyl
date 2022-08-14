@@ -1,10 +1,13 @@
-<h1 align="center">Hi</h1>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=aldyl&label=Profile%20views&color=0e75b6&style=flat" alt="aldyl" /> </p>
+<div><img width=800 src="https://github-profile-trophy.vercel.app/?username=aldyl&column=8&theme=gruvbox&no-frame=true"/></div>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldyl" alt="aldyl" /></a> </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldyl)](https://github.com/aldyl)
-- 🌱 I’m currently learning ...
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=aldyl&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldyl&layout=compact" />
+</div>
+
+<a href="https://app.daily.dev/aldyl"><img src="https://api.daily.dev/devcards/0977547efeea41d7a8dc56b8c6a57e4a.png?r=exo" width="400" alt="Human(Aldy)'s Dev Card"/></a>
 
 <!--
 **aldyl/aldyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
