@@ -1,8 +1,8 @@
-<a href="https://app.daily.dev/aldyl"><img aling="center" src="https://api.daily.dev/devcards/0977547efeea41d7a8dc56b8c6a57e4a.png?r=exo" width="400" alt="Human(Aldy)'s Dev Card"/></a>
-
 <div><img width=800 src="https://github-profile-trophy.vercel.app/?username=aldyl&column=8&theme=gruvbox&no-frame=true"/></div>
+<a href="https://app.daily.dev/aldyl"><img  src="https://api.daily.dev/devcards/0977547efeea41d7a8dc56b8c6a57e4a.png?r=exo" width="300" alt="Human's Dev Card"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldyl&layout=compact"/>
+
+
 
 <!--
 **aldyl/aldyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
